@@ -30,8 +30,8 @@
     "Auto WD": {
         "Status": "OFF",
         "Trigger Balance": "2000000",
-        "Amount WD": "0",
-        "Tip Username": "",
+        "Amount WD": "1000",
+        "Tip Username": "sitimariam98",
         "Wallet": {
             "Is Faucetpay": "False",
             "Address": ""
@@ -44,7 +44,7 @@
     "Reset Seed": {
         "Status": "ON",
         "Start Game": "False",
-        "After Bet": "1200",
+        "After Bet": "99",
         "After Play (min)": "60"
     },
     "Bet Roll": {
@@ -59,7 +59,7 @@
     "Bet Amount": {
         "Base": "0.1",
         "Preroll Bet": "0.000001",
-        "Shoot Bet": "50",
+        "Shoot Bet": "5",
         "Auto Shoot": {
             "Status": "False",
             "After LS": "11",
@@ -67,7 +67,7 @@
         },
         "Balance Divider": {
             "Status": "OFF",
-            "Divider": "5000000"
+            "Divider": "5000000000"
         }
     },
     "Betset": {
@@ -88,10 +88,10 @@
             "Profit Reset": "0.0000001",
             "Cut Lose": "10",
             "Preroll": "10",
-            "Multipler": "1.25",
+            "Multipler": "1.35",
             "Chance Win": {
-                "Min": "69",
-                "Max": "69"
+                "Min": "43",
+                "Max": "49"
             },
             "Chance Lose": {
                 "Min": "9",
@@ -101,8 +101,8 @@
         "Marti": {
             "Toggle": "ON",
             "Chance": {
-                "Min": "43",
-                "Max": "43"
+                "Min": "28",
+                "Max": "33"
             },
             "If Win": "1",
             "If Lose": "2",
@@ -120,13 +120,13 @@
                 "Max": "12"
             },
             "If Win": "1",
-            "If Lose": "1.52"
+            "If Lose": "1.33"
         },
         "DAlembert Wannabe": {
             "Toggle": "OFF",
             "Profit Reset": "0.0000001",
             "Chance": {
-                "Min": "43",
+                "Min": "33",
                 "Max": "43"
             }
         },
@@ -134,7 +134,7 @@
             "Toggle": "OFF",
             "Chance": {
                 "Min": "16",
-                "Max": "33"
+                "Max": "26"
             },
             "Reset if profit": "0.0001",
             "Reset if win": "0",
@@ -145,8 +145,8 @@
             "Toggle": "OFF",
             "Profit Reset": "0.0000001",
             "Chance": {
-                "Min": "9",
-                "Max": "40"
+                "Min": "15",
+                "Max": "30"
             }
         },
         "Wageran": {
